@@ -56,5 +56,10 @@ namespace WindowsFormsApp1
                 MessageBox.Show("Please choose a page to go to in the document then press the specific page button again");
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
